@@ -1,0 +1,18 @@
+Bucle for:
+Es una función que podemos utilizar para lograr retornar lo que estamos buscando.
+Primero tenemos que declarar una variable, luego así vamos a tener una expresión
+condicional, y luego vamos a ir incrementando la variable. Este bucle se ejecutará hasta
+que la declaración sea False.
+
+Operador "and" (&&):
+Va a comparar dos o más expresiones.
+Si todas son true, va a correr, por contrario, si una o más expresones
+son false, va a retornar False.
+
+Operador "Or" (||):
+Compara expresiones.
+Si una o ambas son False, devuelve False.
+Si una o ambas es True, devuelve True.
+
+Operador "Not" (!):
+Se utiliza para retornar el valor booleano opuesto al que le estamos dando.
