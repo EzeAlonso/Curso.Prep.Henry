@@ -1,0 +1,31 @@
+Variables:
+Las variables son formas de almacenar valor que luego vamos a utilizar. Dichos valores
+pueden ser modificados.
+
+Strings:
+Las Strings son bloques de texto, que van a estar definidos por comillas. Ej.: ("texto")
+
+Funciones:
+Las vamos a utilizar para modificar o calcular variables.
+Return:
+Vamos a utizarlo para indicar qué queremos que nos "diga" el programa.
+Ej.:
+function Saludar (Saludo){
+if (saludo==="inglés"){
+return "Hello!"
+}
+return "Error!"
+}
+
+Declaración "If":
+En el ejemplo anterior lo mencionamos. 
+La declaración "if" (si), vamos a utilizarla para decirle a la función qué queremos que haga.
+Como mencionamos arriba: Si "(saludo)" es "Inglés", la función me va a "decir" : "Hello!"; si le
+ponemos otra cosa, va a decir "Error!"
+
+Valores Booleanos:
+--> True:
+Lo utilizamos para significar "Verdadero"
+--> False:
+Lo utilizamos para significar "Falso"
+
